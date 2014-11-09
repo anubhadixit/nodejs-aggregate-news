@@ -1,0 +1,12 @@
+{
+  "name": "newsAggregator",
+  "description": "Node.js server to aggregate BBC and SKY top 10 news item",
+  "author": "https://github.com/dixitanubha/nodejs-aggregate-news",
+  "dependencies": {
+    "http": "*",
+    "url": "*",
+    "xml2js":"*",
+    "async":"*"
+  },
+  "engine": "node >= 0.11.13"
+}
